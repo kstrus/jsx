@@ -1,3 +1,8 @@
+Project created for <strong>Modern React with Redux</strong> Udemy course.<br/>
+Section 2: <strong>Building content with JSX</strong>
+
+<hr/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
